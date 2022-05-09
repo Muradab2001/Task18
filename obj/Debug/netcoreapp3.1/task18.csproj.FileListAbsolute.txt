@@ -1,0 +1,14 @@
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.exe
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.deps.json
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.runtimeconfig.json
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.runtimeconfig.dev.json
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.dll
+C:\Users\Murad\source\repos\task18\bin\Debug\netcoreapp3.1\task18.pdb
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.AssemblyInfoInputs.cache
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.AssemblyInfo.cs
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.csproj.CoreCompileInputs.cache
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.dll
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.pdb
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.genruntimeconfig.cache
+C:\Users\Murad\source\repos\task18\obj\Debug\netcoreapp3.1\task18.csproj.AssemblyReference.cache
